@@ -1,0 +1,29 @@
+## A repo containing a basic game for illustrating OpenCV, Uses mediapipe for hand recognition
+
+### Installing instructions
+//Clone the repo locally
+```
+git clone
+```
+### Python installation
+#### Windows
+```
+pip install python3
+```
+#### Linux
+```
+sudo dnf install python3
+```
+### Install Pygame
+#### Windows
+```
+pip install pygame
+```
+#### Linux
+```
+sudo apt-get install python3-pygame
+```
+
+### Install Mediapipe
+
+### Install CV
