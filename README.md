@@ -25,5 +25,23 @@ sudo apt-get install python3-pygame
 ```
 
 ### Install Mediapipe
+#### Windows
+```
+pip install mediapipe
+```
+#### Linux
+```
+pip install mediapipe
+```
 
 ### Install CV
+#### Windows
+```
+pip install opencv-python
+```
+#### Linux
+```
+pip3 install opencv-python
+```
+
+
