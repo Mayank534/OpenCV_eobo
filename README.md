@@ -3,7 +3,7 @@
 ### Installing instructions
 //Clone the repo locally
 ```
-git clone
+git clone https://github.com/Mayank534/OpenCV_robo.git
 ```
 ### Python installation
 #### Windows
