@@ -2,6 +2,8 @@
 
 ### Installing instructions
 //Clone the repo locally
+Run main.py to start the game
+
 ```
 git clone https://github.com/Mayank534/OpenCV_robo.git
 ```
