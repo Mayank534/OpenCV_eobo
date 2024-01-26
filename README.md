@@ -2,6 +2,7 @@
 
 ### Installing instructions
 //Clone the repo locally
+
 Run main.py to start the game
 
 ```
